@@ -13,7 +13,8 @@ retry:
     goto retry;
     
 }
-
+//Code by: MiniatureDev
+//License: CC0
 
 
 
